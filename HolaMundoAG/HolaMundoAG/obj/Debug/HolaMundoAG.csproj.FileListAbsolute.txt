@@ -1,0 +1,15 @@
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\HolaMundoAG.exe.config
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\HolaMundoAG.exe
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\HolaMundoAG.pdb
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\GeneticSharp.Domain.dll
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\GeneticSharp.Extensions.dll
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\GeneticSharp.Infrastructure.Threading.dll
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\NCalc.dll
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\SmartThreadPool.dll
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\GeneticSharp.Infrastructure.Framework.xml
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\GeneticSharp.Infrastructure.Threading.pdb
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\bin\Debug\SmartThreadPool.pdb
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\obj\Debug\HolaMundoAG.csprojResolveAssemblyReference.cache
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\obj\Debug\HolaMundoAG.exe
+c:\users\juanes\documents\visual studio 2015\Projects\HolaMundoAG\HolaMundoAG\obj\Debug\HolaMundoAG.pdb
